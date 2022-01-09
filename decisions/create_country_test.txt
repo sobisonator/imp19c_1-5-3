@@ -1,0 +1,23 @@
+country_decisions = {
+	create_country_test = {
+		potential = {
+			always = yes
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			random_province = {
+				limit = {
+					is_inhabitable = yes
+				}
+				create_country = {
+					name = {
+						name = testland
+						adjective = test
+					}
+				}
+			}
+		}
+	}
+}

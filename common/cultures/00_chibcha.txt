@@ -1,0 +1,39 @@
+﻿chibcha = {
+	color = hsv { 0.6  0.9  0.2 }
+
+	male_names = {
+		Saguamanchicha Nemequene Quemenchatocha Quemuenchatocha Michura Aquiminzaque Tisquesusa Meicuchuca Nompanim Sugamuxi Pacanchique Tundama Ramadel
+	}
+	female_names = {
+		Neris Siya Mariela Pushaina
+	}
+	family = {
+		Tibaquicha
+		Boarejo
+		Balsero
+		Fiquitiva
+		Tiquidimas
+		Muscue
+		Botiva
+		Bacata
+		Hunza
+		Pushiana
+		Uriana
+	}
+
+	culture = {
+		zaque = {}
+		zipa = {}
+		guaymi = {} # Panama
+		tairona = {} # North coast
+		wayuu = {} # La Guajira area
+	}
+	
+	barbarian_names = { CAUCASIAN }
+	
+	graphical_culture = western_1815_gfx
+	
+	ethnicities = {
+		10 = scythian
+	}	
+}

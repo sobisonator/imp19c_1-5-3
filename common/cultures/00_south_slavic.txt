@@ -1,0 +1,39 @@
+﻿south_slavic = {
+	color = hsv { 0.2  0.4  0.9 }
+
+	male_names = {
+			Victor Vilhelm William Vintila Vlad
+	}
+	female_names = {
+			Tereza Teresa Vasilica Violeta Yolanda Voica Zina
+	}
+	family = {
+		Craiovesti.Craiovesti.Craiovesti.Craiovesti
+		Hâjdau.Hâjdau.Hâjdau.Hâjdau
+		Kogalniceanu.Kogalniceanu.Kogalniceanu.Kogalniceanu
+		Movilesti.Movilesti.Movilesti.Movilesti
+		Ilic.Ilic.Ilic.Ilic
+		Vukanovic.Vukanovic.Vukanovic.Vukanovic
+		Mrnjavcevic.Mrnjavcevic.Mrnjavcevic.Mrnjavcevic
+		Lazarevic.Lazarevic.Lazarevic.Lazarevic
+		Brakovic.Brakovic.Brakovic.Brakovic
+		Balsic.Balsic.Balsic.Balsic
+		Vukovic.Vukovic.Vukovic.Vukovic
+		Branovic.Branovic.Branovic.Branovic
+	}
+
+	culture = {
+		serb = {}
+		bosniak = {}
+		croat = {}
+		bulgarian = {}
+	}
+	
+	barbarian_names = { SOUTH_SLAVIC }
+	
+	graphical_culture = western_1815_gfx
+	
+	ethnicities = {
+		10 = western
+	}	
+}
